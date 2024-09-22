@@ -1,0 +1,73 @@
+[
+	{
+	    "id": 1,
+	    "nombre": "Porotos con Riendas",
+	    "descripcion": "Ricos porotos a la chilena con spaghetti",
+	    "ingredientes": [
+	        "porotos",
+	        "cebolla",
+	        "pimenton",
+	        "comino",
+	        "aji color",
+	        "spaghetti",
+	        "zapallo camote"
+	    ],
+	    "instrucciones": "hacer el pino, cocer los porotos, agregar spaghetti, juntar, revolver, condimentar y listo!",
+	    "tiempoPreparacion": 50,
+	    "dificultad": "media",
+	    "participante": "Pablo",
+	    "votos": 10
+	},
+	{
+	    "id": 2,
+	    "nombre": "Mechada Italiana chilensis",
+	    "descripcion": "Rico sandwich de carne mechada",
+	    "ingredientes": [
+	        "pan amasado grande",
+	        "tomate",
+	        "palta",
+	        "carne mechada",
+	        "mayonesa",
+	        "pimienta",
+	        "sal"
+	    ],
+	    "instrucciones": "preparar la carne mechada en olla a presion condimentar a gusto, picar tomates en cuadritos, moler la palta!",
+	    "tiempoPreparacion": 30,
+	    "dificultad": "facil",
+	    "participante": "Dennise",
+	    "votos": 15
+	},
+	{
+	    "id": 3,
+	    "nombre": "Lomo pobre-pobre",
+	    "descripcion": "Arroz blanco con huevos fritos y bistec",
+	    "ingredientes": [
+	        "arroz",
+	        "huevos",
+	        "bistec"
+	    ],
+	    "instrucciones": "preparar arroz graneado, freir los huevos, freir el bistec, servir al arroz junto al bistec, poner el huevo frito sobre el arroz.",
+	    "tiempoPreparacion": 30,
+	    "dificultad": "facil",
+	    "participante": "Javi",
+	    "votos": -5
+	},
+	{
+	    "id": 4,
+	    "nombre": "Fideos Florencia",
+	    "descripcion": "Spaghetti con salsa bolognesa",
+	    "ingredientes": [
+	        "Spaghetti",
+	        "tomate",
+	        "salsa",
+	        "sal",
+	        "cebolla",
+	        "carne molida"
+	    ],
+	    "instrucciones": "cocer los fideos por 10 minutos, preparar un pino con la carne molida, cebolla, salsa de tomates, juntar todos y servir con queso rallado",
+	    "tiempoPreparacion": 30,
+	    "dificultad": "facil",
+	    "participante": "Florencia",
+	    "votos": -3
+	}
+]

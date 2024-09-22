@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "nombre": "Porotos con Riendas",
+    "descripcion": "Ricos porotos a la chilena con spaghetti",
+    "ingredientes": [
+        "porotos",
+        "cebolla",
+        "pimenton",
+        "comino",
+        "aji color",
+        "spaghetti",
+        "zapallo camote"
+    ],
+    "instrucciones": "hacer el pino, cocer los porotos, agregar spaghetti, juntar, revolver, condimentar y listo!",
+    "tiempoPreparacion": 50,
+    "dificultad": "media",
+    "participante": "Pablo",
+    "votos": 10
+}
