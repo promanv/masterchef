@@ -23,4 +23,4 @@ IV - Endpoint
   -  PUT /api/recetas/{id}: Actualizar la receta.
   -  DELETE /api/recetas/{id}: Eliminar una receta.
   -  PATCH /api/recetas/{id}/{voto}: Votar por una receta.
-** en "masterchef\src\test\java\cl\prueba\ilis\masterchef\ejemplos" existen dos archivos con estructuras de ejemplo: list.json y single.json
+    ** en "masterchef\src\test\java\cl\prueba\ilis\masterchef\ejemplos" existen dos archivos con estructuras de ejemplo: list.json y single.json
