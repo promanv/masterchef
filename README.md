@@ -4,7 +4,8 @@ I - Base de datos MySql
 1.	Crear la base de datos "masterchef"
 2.	Crear tabla "receta"
 3.	Poblar tabla "receta"
-   ** Utilizar el script "receta.sql" para la creación y poblado de la tabla.
+
+ ** Utilizar el script "receta.sql" para la creación y poblado de la tabla.
    
 II - Ejecutar App
 1.	Requisitos maven y Java 17
@@ -23,4 +24,5 @@ IV - Endpoint
   -  PUT /api/recetas/{id}: Actualizar la receta.
   -  DELETE /api/recetas/{id}: Eliminar una receta.
   -  PATCH /api/recetas/{id}/{voto}: Votar por una receta.
-    ** en "masterchef\src\test\java\cl\prueba\ilis\masterchef\ejemplos" existen dos archivos con estructuras de ejemplo: list.json y single.json
+
+ ** en "masterchef\src\test\java\cl\prueba\ilis\masterchef\ejemplos" existen dos archivos con estructuras de ejemplo: list.json y single.json
