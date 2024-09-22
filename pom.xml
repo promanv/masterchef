@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>cl.prueba.ilis</groupId>
 	<artifactId>masterchef</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1</version>
 	<name>masterchef</name>
 	<description>Prueba tecnica Ilis Solutions</description>
 	<url/>
