@@ -17,10 +17,10 @@ III - Swagger
    
 IV - Endpoint
 1.	Asumiendo que la aplicación levanta en http://localhost:8080, se crearon los siguientes endpoints:
-•	POST /api/recetas: Añadir una nueva receta.
-•	GET /api/recetas: Obtener todas las recetas.
-•	GET /api/recetas/{id}: Ver una receta en particular.
-•	PUT /api/recetas/{id}: Actualizar la receta.
-•	DELETE /api/recetas/{id}: Eliminar una receta.
-•	PATCH /api/recetas/{id}/{voto}: Votar por una receta.
+  -  POST /api/recetas: Añadir una nueva receta.
+  -  GET /api/recetas: Obtener todas las recetas.
+  -  GET /api/recetas/{id}: Ver una receta en particular.
+  -  PUT /api/recetas/{id}: Actualizar la receta.
+  -  DELETE /api/recetas/{id}: Eliminar una receta.
+  -  PATCH /api/recetas/{id}/{voto}: Votar por una receta.
 ** en "masterchef\src\test\java\cl\prueba\ilis\masterchef\ejemplos" existen dos archivos con estructuras de ejemplo: list.json y single.json
